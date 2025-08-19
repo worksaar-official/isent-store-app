@@ -1,0 +1,2 @@
+C:/iSent App/Vendor app/android/app/.cxx/Debug/60464d28/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/iSent App/Vendor app/android/app/.cxx/Debug/60464d28/armeabi-v7a/CMakeFiles/rebuild_cache.dir
